@@ -7,13 +7,15 @@
         |       |     |
     ====/  \====/     |
 
-# 主页传送门:
-[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fsjt-2024.github.io&label=传送门&down_message=down%20%3A\()](https://sjt-2024.github.io "传送门")
-
 # 运行数据:
 - 主进程:*啃八年级下册的课本*
-- 空闲进程:*Miku和hitorie*
+- 空闲进程:*Music*
 - 回归时间:*周末*短暂回归,*寒暑假*长期回归
+- 待处理任务:重构主页 / 续更之前的坑
+
+# 统计数据:
+[![UndefinedByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=undefinedbyte&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undefinedbyte&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Friends传送门:
 - [@lingbopro](https://github.com/lingbopro) 
@@ -23,9 +25,9 @@
 
 ---
 
-[![Profile visits](https://komarev.com/ghpvc/?username=sjt-2024&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter "Profile visits")
-[![GitHub followers](https://img.shields.io/github/followers/sjt-2024?style=flat-square&label=Followers)](https://github.com/sjt-2024?tab=followers "GitHub followers")
-[![Stars](https://img.shields.io/github/stars/sjt-2024?style=flat-square&color=yellow&label=Stars)](https://github.com/sjt-2024?tab=repositories&sort=stargazers "Stars")
+[![Profile visits](https://komarev.com/ghpvc/?username=undefinedbyte&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter "Profile visits")
+[![GitHub followers](https://img.shields.io/github/followers/undefinedbyte?style=flat-square&label=Followers)](https://github.com/undefinedbyte?tab=followers "GitHub followers")
+[![Stars](https://img.shields.io/github/stars/undefinedbyte?style=flat-square&color=yellow&label=Stars)](https://github.com/undefinedbyte?tab=repositories&sort=stargazers "Stars")
 
 ###### 感谢[@lingbopro](https://github.com/lingbopro)提供部分源码
 
